@@ -14,4 +14,4 @@ function logShout(string) {
   console.log(string);
 }
 
-logShout($shout) 
+logShout(shout);
