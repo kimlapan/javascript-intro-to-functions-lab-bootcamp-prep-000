@@ -13,5 +13,3 @@ whisper('HELLO');
 function logShout(string) {
   console.log(shout);
 }
-
-logShout(shout);
